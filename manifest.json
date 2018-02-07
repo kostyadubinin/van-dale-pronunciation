@@ -12,5 +12,11 @@
   "permissions": [
     "activeTab",
     "storage"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["https://www.vandale.nl/*"],
+      "js": ["jquery-2.2.0.min.js", "contentscript.js"]
+    }
   ]
 }
