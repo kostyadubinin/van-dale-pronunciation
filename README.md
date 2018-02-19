@@ -2,4 +2,4 @@ This is the source code of a Chrome extension that adds a button with pronunciat
 
 Follow instructions form the [Chrome extensions documentation][1] to load up this extension from your working directory.
 
-[1]: https://developer.chrome.com/extensions/getstartedunpacked]
+[1]: https://developer.chrome.com/extensions/getstarted#unpacked
